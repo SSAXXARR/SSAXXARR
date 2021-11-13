@@ -1,17 +1,15 @@
-### Hi there 👋
 ### ⚡ I'm currently studying spring and hibernate
 
-<!--
-**SSAXXARR/ssaxxarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm know:
++ Java Syntax
++ Java Core
++ JUnit5
++ SQL
++ SOLID, KISS, DRY
++ OOP
 
-Here are some ideas to get you started:
+### Contact me:
+@SSAXXARR - telegram
 
-- 🔭 I’m currently working on ...
-### 🌱 I'm currently studying spring and hibernate
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SSAXXARR@yandex.ru 
+
