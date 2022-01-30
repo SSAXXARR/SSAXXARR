@@ -1,4 +1,4 @@
-### ⚡ I'm currently studying spring and hibernate
+### ⚡ Intern Android developer
 
 ### I'm know:
 + Java Syntax
