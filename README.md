@@ -1,4 +1,4 @@
-### ⚡ Intern Android developer
+### ⚡ Android developer
 
 ### I'm know:
 + Java Syntax
